@@ -31,10 +31,11 @@
     /* color: white; */
 
 } 
-
+.categories{
+    color: white;
+}
 .categories img{
     width: 100px;
-    color: white;
 }
 
 .cat1{
