@@ -49,3 +49,15 @@
 .cat3{
     background-color: rgb(53, 53, 197);
 }
+
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
